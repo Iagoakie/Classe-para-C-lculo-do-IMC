@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"trabalhocurso1","c":"Paciente","l":"calcularIMC()"},{"p":"trabalhocurso1","c":"Paciente","l":"diagnostico()"},{"p":"trabalhocurso1","c":"Paciente","l":"Paciente(double, double)","u":"%3Cinit%3E(double,double)"}];updateSearchResults();
